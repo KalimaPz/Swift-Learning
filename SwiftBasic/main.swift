@@ -1,11 +1,8 @@
-//
-//  main.swift
-//  SwiftBasic
-//
-//  Created by Donnukrit Satirakul on 25/3/2566 BE.
-//
+var name : String = "Donnukrit"
+var age : Int = 26
+print(name)
+print(age)
 
-import Foundation
+var salary : Double = 35000.00
 
-print("Hello, World!")
-
+print(salary )
